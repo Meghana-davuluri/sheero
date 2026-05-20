@@ -60,16 +60,14 @@ Real content for the brain to write into and read from.
 
 ---
 
-## Phase 4 — Job search tooling ✅
+## Phase 4 — Job search tooling (example template) 🧩
 
-Active outbound job/gig pipeline.
+The private original of this brain shipped a full job-search pipeline (applications tracker, gig leads, daily opportunity scan, resume drafts, email triage skill). The public template includes the `job_search` agent and `email_triage` skill — you would add the application-tracking markdown files in `pillars/occupational/` for your own search.
 
-- ✅ `pillars/occupational/applications.md` — application tracker
-- ✅ `pillars/occupational/ai_gig_leads.md` — gig opportunities
-- ✅ `pillars/occupational/daily_opportunities.md` — daily scan output
-- ✅ `pillars/occupational/opportunity_tracker.py` — scanning script
-- ✅ Resume drafts (Anthropic FDE, Mindera fullstack)
-- ✅ `email_triage` skill
+- ✅ `email_triage` skill (in public template)
+- ✅ `job_search` sub-agent (in public template — personalize for your role)
+- 🧩 Application tracker markdown in `pillars/occupational/` — add when you start tracking
+- 🧩 Resume drafts (`pillars/occupational/resume_*.md`) — add yours
 
 ---
 
@@ -159,13 +157,13 @@ memory/feeds/
 Day → week → month compression so "what happened this month?" works.
 
 - ✅ `weekly_rollup` skill — reads daily logs + feeds + decisions + session log + git history, writes `memory/weekly/YYYY-Wnn.md`. Handles partial weeks gracefully. **Shipped 2026-05-19.**
-- ✅ `monthly_rollup` skill — reads the month's weekly rollups, falls back to daily logs + feeds for weeks without rollups, writes `memory/monthly/YYYY-MM.md`. Handles partial months. **Shipped 2026-05-19** (first rollup at `memory/monthly/2026-05.md`, partial).
+- ✅ `monthly_rollup` skill — reads the month's weekly rollups, falls back to daily logs + feeds for weeks without rollups, writes `memory/monthly/YYYY-MM.md`. Handles partial months. **Shipped 2026-05-19** (first rollup at `memory/monthly/2026-04.md`, partial).
 - ✅ `refresh_topics` skill — scans 14-day window of feeds + daily logs + decisions + git history, hotness-scored, updates `cortex/people/*.md` and `cortex/projects/*.md`. Preserves hand-written sections, rewrites Recent activity, appends to History, bumps frontmatter. Flags stale projects (30+ days no activity) for review. **Shipped 2026-05-19.**
 - ✅ Seed `cortex/projects/` with one file per active project. **Shipped 2026-05-19.**
 - ✅ Seed `cortex/people/` with starter file for alex-cofounder. **Shipped 2026-05-19.**
 - ✅ Topic-tree READMEs in both folders documenting the file format and how `refresh_topics` will populate them. **Shipped 2026-05-19.**
 
-**Definition of done:** Browse `memory/weekly/*.md` and see real, useful summaries. Ask "what's the latest with PhotoFinder?" via Telegram and get an answer grounded in `cortex/projects/photofinder.md`.
+**Definition of done:** Browse `memory/weekly/*.md` and see real, useful summaries. Ask "what's the latest with PhotoFinder?" via Telegram and get an answer grounded in `cortex/projects/acme-corp.md`.
 
 ---
 

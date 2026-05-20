@@ -117,7 +117,7 @@ Notable absences. Was there a goal on Monday that's still untouched on Sunday? F
 
 ## Step 4 — Write the rollup file
 
-Save to `memory/weekly/YYYY-Wnn.md` (e.g., `memory/weekly/2026-W21.md`).
+Save to `memory/weekly/YYYY-Wnn.md` (e.g., `memory/weekly/YYYY-Wnn.md`).
 
 Template:
 
