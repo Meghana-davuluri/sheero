@@ -262,7 +262,7 @@ The bot is **read + write + commit**. Every change goes through git, so the safe
 5. **What this is NOT** — not another agent harness, not a mascot, not 118 integrations, not cloud-hosted
 6. **Folder structure** — the updated tree above
 7. **Setup guide** — clone, fill context, install Claude Code, set up Telegram bot, run launchd
-8. **Credits** — Karpathy's obsidian-wiki, OpenHuman's memory tree, RIGGS boilerplate
+8. **Credits** — Karpathy's obsidian-wiki, OpenHuman's memory tree
 9. **License** — MIT (kept from existing)
 
 ---
