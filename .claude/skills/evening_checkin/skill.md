@@ -76,7 +76,7 @@ If today is Friday (or your preferred weekly review day), prompt:
 
 > "It's the end of the week — time for a quick finances review. Paste this week's transactions and I'll categorize and flag."
 
-Wait for transactions. Categorize, total, flag anomalies, and log to `pillars/financial/finances/weekly_review.md` (create this file if it doesn't exist).
+Wait for transactions. Categorize, total, flag anomalies, and log to `pillars/financial/weekly_review.md` (create this file if it doesn't exist).
 
 ---
 
