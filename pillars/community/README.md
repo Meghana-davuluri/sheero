@@ -29,6 +29,6 @@ This pillar covers your participation in communities and your public presence â€
 
 ---
 
-## How RIGGS Uses This Folder
+## How Sheero Uses This Folder
 
-RIGGS references this when you ask about content creation, platform strategy, community building, or public-facing projects. It can help draft posts, plan content calendars, and track publishing commitments.
+Sheero references this when you ask about content creation, platform strategy, community building, or public-facing projects. It can help draft posts, plan content calendars, and track publishing commitments.

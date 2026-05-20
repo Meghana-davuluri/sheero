@@ -29,6 +29,6 @@ This pillar covers everything related to your intellectual development — what 
 
 ---
 
-## How RIGGS Uses This Folder
+## How Sheero Uses This Folder
 
-RIGGS references this when you ask about learning priorities, skill gaps, or what to study next. It can help you build a study plan, suggest what to read given your goals, or surface notes from something you studied previously.
+Sheero references this when you ask about learning priorities, skill gaps, or what to study next. It can help you build a study plan, suggest what to read given your goals, or surface notes from something you studied previously.

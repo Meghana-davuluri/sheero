@@ -30,6 +30,6 @@ This pillar covers your financial life — budget, debt, income, savings, and fi
 
 ---
 
-## How RIGGS Uses This Folder
+## How Sheero Uses This Folder
 
-RIGGS references this when you ask about financial decisions, income strategy, or debt management. It will not track spending automatically — you bring the data, RIGGS helps you interpret and act on it.
+Sheero references this when you ask about financial decisions, income strategy, or debt management. It will not track spending automatically — you bring the data, Sheero helps you interpret and act on it.

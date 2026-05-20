@@ -31,6 +31,6 @@ This pillar covers everything related to how you earn a living — your career p
 
 ---
 
-## How RIGGS Uses This Folder
+## How Sheero Uses This Folder
 
-RIGGS reads this when you ask about career direction, job search execution, business decisions, or income planning. It can help draft cover letters, evaluate opportunities, and track application progress.
+Sheero reads this when you ask about career direction, job search execution, business decisions, or income planning. It can help draft cover letters, evaluate opportunities, and track application progress.

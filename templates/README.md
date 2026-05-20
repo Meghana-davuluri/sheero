@@ -23,4 +23,4 @@ This folder holds reusable templates for documents, communications, and prompts 
 
 - Name files descriptively: `email_cold_outreach.md`, `project_brief.md`, `weekly_review_prompt.md`
 - Include placeholders in `[BRACKETS]` for variable content
-- RIGGS can reference these when you ask it to draft something — point it to the relevant template
+- Sheero can reference these when you ask it to draft something — point it to the relevant template

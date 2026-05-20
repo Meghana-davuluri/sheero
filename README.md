@@ -250,7 +250,6 @@ See [`ROADMAP.md`](ROADMAP.md) for current status and planned features.
 
 ## Credits
 
-- Folder structure pattern adapted from the [RIGGS Boilerplate](https://github.com/Bagu-Hanto/riggs_boilerplate) (MIT)
 - Memory tree pattern inspiration from [OpenHuman](https://github.com/tinyhumansai/openhuman)
 - Obsidian-wiki philosophy from [Andrej Karpathy](https://x.com/karpathy/status/2039805659525644595)
 

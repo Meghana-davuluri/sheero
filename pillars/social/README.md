@@ -27,6 +27,6 @@ This pillar covers your relationships and social world — family, friends, roma
 
 ---
 
-## How RIGGS Uses This Folder
+## How Sheero Uses This Folder
 
-RIGGS can flag relationship maintenance tasks during check-ins, help you draft messages, and surface context about someone before an important conversation. Keep notes honest — this folder is for your benefit, not theirs.
+Sheero can flag relationship maintenance tasks during check-ins, help you draft messages, and surface context about someone before an important conversation. Keep notes honest — this folder is for your benefit, not theirs.

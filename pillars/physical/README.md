@@ -28,6 +28,6 @@ This pillar covers everything related to your physical body — fitness, nutriti
 
 ---
 
-## How RIGGS Uses This Folder
+## How Sheero Uses This Folder
 
-RIGGS reads this folder when you ask about physical health, fitness planning, or when foundational physical tasks are part of your daily routine. It does not proactively monitor or track — you bring it in as needed.
+Sheero reads this folder when you ask about physical health, fitness planning, or when foundational physical tasks are part of your daily routine. It does not proactively monitor or track — you bring it in as needed.

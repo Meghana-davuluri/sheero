@@ -6,7 +6,7 @@ type: reference
 
 # guides — Operational Cheatsheets
 
-Store step-by-step guides here for any process you run repeatedly. RIGGS can read these during a session to execute or walk you through the steps.
+Store step-by-step guides here for any process you run repeatedly. Sheero can read these during a session to execute or walk you through the steps.
 
 ---
 
@@ -35,4 +35,4 @@ One line on what this guide is for.
 3. Step three
 ```
 
-Executable beats thorough. If RIGGS can read it and do it, it's the right length.
+Executable beats thorough. If Sheero can read it and do it, it's the right length.

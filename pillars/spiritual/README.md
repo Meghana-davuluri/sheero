@@ -29,6 +29,6 @@ This pillar holds your philosophical and spiritual framework — the principles 
 
 ---
 
-## How RIGGS Uses This Folder
+## How Sheero Uses This Folder
 
-RIGGS can surface a relevant precept during a morning check-in, reference your values when advising on a decision, or pull a passage from a text that matches your current situation. The more you put here, the more grounded the assistance becomes.
+Sheero can surface a relevant precept during a morning check-in, reference your values when advising on a decision, or pull a passage from a text that matches your current situation. The more you put here, the more grounded the assistance becomes.

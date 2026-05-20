@@ -21,7 +21,7 @@ This folder is the system's long-term memory. It captures what decisions were ma
 
 ## How to Use This Folder
 
-- RIGGS appends to these files automatically during check-ins and sessions
+- Sheero appends to these files automatically during check-ins and sessions
 - Do not delete entries — the log is most valuable when it's complete
 - Review `decisions_log.md` before making major decisions — you may have already reasoned through something similar
-- `session_log.md` is how RIGGS maintains continuity across conversations that don't share context
+- `session_log.md` is how Sheero maintains continuity across conversations that don't share context

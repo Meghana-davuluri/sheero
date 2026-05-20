@@ -28,6 +28,6 @@ This pillar covers your inner life — habits, routines, emotional patterns, jou
 
 ---
 
-## How RIGGS Uses This Folder
+## How Sheero Uses This Folder
 
-RIGGS references this during check-ins when emotional context is relevant. It can suggest prompts, flag patterns in your journal entries, and help you design or adjust routines.
+Sheero references this during check-ins when emotional context is relevant. It can suggest prompts, flag patterns in your journal entries, and help you design or adjust routines.

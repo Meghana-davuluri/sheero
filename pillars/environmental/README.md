@@ -29,6 +29,6 @@ This pillar covers your physical environment — where you live, where you work,
 
 ---
 
-## How RIGGS Uses This Folder
+## How Sheero Uses This Folder
 
-RIGGS references this when you're making location decisions, planning projects around the home, or researching where to live. Useful for tracking the research phase of a move or build.
+Sheero references this when you're making location decisions, planning projects around the home, or researching where to live. Useful for tracking the research phase of a move or build.
