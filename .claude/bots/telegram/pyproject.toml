@@ -1,0 +1,8 @@
+[project]
+name = "sheero-telegram-bot"
+version = "0.1.0"
+description = "Telegram daemon that routes messages to Sheero (Claude Code)"
+requires-python = ">=3.11"
+dependencies = [
+    "python-telegram-bot>=21.0",
+]

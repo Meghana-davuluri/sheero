@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Telegram bot — uploaded content stays local
+00_context/inbox/*
+!00_context/inbox/.gitkeep
+
+# Editor / OS
+.DS_Store
+*.swp

@@ -1,0 +1,7 @@
+## Day {{M/DD/YYYY}}
+sleep: {{hours or note}}
+exercise: {{type/duration or —}}
+{{habit_3}}: {{value or —}}
+{{habit_4}}: {{value or —}}
+{{habit_5}}: {{value or —}}
+journal: {{at least one real sentence about today}}

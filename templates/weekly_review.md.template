@@ -1,0 +1,31 @@
+# Week of {{YYYY-MM-DD}} to {{YYYY-MM-DD}}
+
+## What shipped
+- {{concrete thing delivered}}
+
+## What stalled
+- {{thing that didn't move and why}}
+
+## Numbers
+| Metric | Value | Change vs last week |
+|--------|-------|---------------------|
+| self-publishing revenue | ${{0.00}} | {{+/-}} |
+| LLC revenue | ${{0.00}} | {{+/-}} |
+| Books live | {{n}} | {{+/-}} |
+| Cash on hand | ${{0}} | {{+/-}} |
+
+## Habits roll-up
+- Sleep avg: {{h.h}}
+- Exercise days: {{n/7}}
+- Journal days: {{n/7}}
+
+## Carry-overs from priorities.md
+- {{item still unfinished and why}}
+
+## Next week's focus (seeds priorities.md)
+1. {{top priority}}
+2. {{second}}
+3. {{third}}
+
+## One honest line about the week
+{{what actually happened vs what I told myself would happen}}
