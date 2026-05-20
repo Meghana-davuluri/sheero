@@ -68,7 +68,6 @@ LICENSE (create new MIT with your name)
 .claude/skills/refresh_topics/skill.md
 .claude/skills/meeting_capture/skill.md
 .claude/agents/job_search.md     (review first — may need sanitizing)
-.claude/agents/kdp_research.md   (review first)
 .claude/bots/telegram/bot.py
 .claude/bots/telegram/notify.py
 .claude/bots/telegram/README.md

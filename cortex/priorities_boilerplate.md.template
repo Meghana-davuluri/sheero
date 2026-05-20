@@ -1,7 +1,7 @@
 # Priorities — Current Focus
 
 [!!!NOTE!!!]
-Current focus and urgent items. RIGGS reads this every session before suggesting tasks.
+Current focus and urgent items. Sheero reads this every session before suggesting tasks.
 Keep this file short and current. Update it weekly or whenever focus shifts.
 
 Last updated: [DATE]
@@ -22,7 +22,7 @@ Example:
 ## This Week's Tasks
 
 [Specific, actionable tasks with deadlines where applicable.
-Use checkboxes. RIGGS will track these during check-ins.
+Use checkboxes. Sheero will track these during check-ins.
 
 - [ ] [Task 1] — by [date]
 - [ ] [Task 2] — by [date]
@@ -33,7 +33,7 @@ Use checkboxes. RIGGS will track these during check-ins.
 
 ## Daily Work Order
 
-[How do you want to structure your day? RIGGS will use this when suggesting what to work on.
+[How do you want to structure your day? Sheero will use this when suggesting what to work on.
 Example:
 1. [Most important / hardest task] — first block
 2. [Secondary priority] — second block

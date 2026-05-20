@@ -22,7 +22,7 @@ The core file-based brain, three rituals, manual context.
 - ✅ `morning_checkin` skill
 - ✅ `evening_checkin` skill (with weekly review on Sundays)
 - ✅ `save` skill
-- ✅ Sub-agents: `job_search`, `kdp_research`
+- ✅ Sub-agents: `job_search` (one example; add more as needed)
 - ✅ Templates: daily log, decision, weekly review
 
 ---
@@ -35,7 +35,7 @@ Real content for the brain to write into and read from.
 - ✅ Daily log with structured habit + journal format
 - ✅ Daily prompts (theme-matched reflections for morning check-in)
 - ✅ Habits / journal / sleep / workouts files in pillars
-- ✅ Operational references (self-publishing launch checklist)
+- ✅ Operational references
 - ✅ Financial tracking scaffold
 - ✅ Workspace + values + learning + relationships pillar files
 
@@ -118,7 +118,7 @@ Sheero supports **multiple Gmail and Calendar accounts** via separate MCP server
 | `you@yourwork.com` | yourwork LLC work | `gmail-yourwork`, `calendar-yourwork` |
 | Personal Gmail | Family, friends, accounts, general | `gmail-personal`, `calendar-personal` |
 
-Additional accounts (askexample.ai, self-publishing, etc.) can be added later as new MCP instances with no code changes.
+Additional accounts (extra inboxes, side projects, etc.) can be added later as new MCP instances with no code changes.
 
 ### Skills to build
 
@@ -161,7 +161,7 @@ Day → week → month compression so "what happened this month?" works.
 - ✅ `weekly_rollup` skill — reads daily logs + feeds + decisions + session log + git history, writes `memory/weekly/YYYY-Wnn.md`. Handles partial weeks gracefully. **Shipped 2026-05-19.**
 - ✅ `monthly_rollup` skill — reads the month's weekly rollups, falls back to daily logs + feeds for weeks without rollups, writes `memory/monthly/YYYY-MM.md`. Handles partial months. **Shipped 2026-05-19** (first rollup at `memory/monthly/2026-05.md`, partial).
 - ✅ `refresh_topics` skill — scans 14-day window of feeds + daily logs + decisions + git history, hotness-scored, updates `cortex/people/*.md` and `cortex/projects/*.md`. Preserves hand-written sections, rewrites Recent activity, appends to History, bumps frontmatter. Flags stale projects (30+ days no activity) for review. **Shipped 2026-05-19.**
-- ✅ Seed `cortex/projects/` with one file per active project — sheero, photofinder, acme-client, carsearch, askexample, kdp, sap-blog. **Shipped 2026-05-19.**
+- ✅ Seed `cortex/projects/` with one file per active project. **Shipped 2026-05-19.**
 - ✅ Seed `cortex/people/` with starter file for alex-cofounder. **Shipped 2026-05-19.**
 - ✅ Topic-tree READMEs in both folders documenting the file format and how `refresh_topics` will populate them. **Shipped 2026-05-19.**
 

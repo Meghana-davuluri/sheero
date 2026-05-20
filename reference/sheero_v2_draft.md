@@ -28,7 +28,7 @@ Sheero is a **persistent, file-based AI executive assistant built on Claude Code
 - `memory/` holds the daily log
 - `01–09_pillars/` cover nine life domains (physical, emotional, social, etc.)
 - `.claude/skills/` defines three skills: `morning_checkin`, `evening_checkin`, `save`
-- `.claude/agents/` defines two sub-agents: `job_search`, `kdp_research`
+- `.claude/agents/` defines a `job_search` sub-agent (more can be added)
 - The README mentions Gmail MCP, Google Calendar MCP, and Telegram MCP as integrations — these are **referenced as intent**, not yet wired up in skills
 
 **What works well today:**
@@ -108,7 +108,7 @@ sheero-brain/                            ← private, your real life
 │       ├── photofinder.md
 │       ├── carsearch.md
 │       ├── acme-client.md
-│       └── kdp.md
+│       └── side-project.md
 │
 ├── 00_system/
 │   ├── tracking/
@@ -193,7 +193,7 @@ sheero-brain/                            ← private, your real life
 - "What did Anna email me this week?" → reads `feeds/gmail/*`, summarizes
 - "Add to scratchpad: idea for PhotoFinder onboarding flow" → appends to `cortex/scratchpad.md`, commits, pushes
 - "What's on my calendar tomorrow?" → reads `feeds/calendar/2026-05-20.md`
-- "How's self-publishing doing this month?" → reads `cortex/projects/kdp.md` + recent logs
+- "How is project X doing this month?" → reads `cortex/projects/x.md` + recent logs
 - Voice note from Telegram → Whisper → text → same flow
 
 The bot is **read + write + commit**. Every change goes through git, so the safety net stays intact.

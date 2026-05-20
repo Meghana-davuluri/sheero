@@ -9,10 +9,10 @@
 ## Numbers
 | Metric | Value | Change vs last week |
 |--------|-------|---------------------|
-| self-publishing revenue | ${{0.00}} | {{+/-}} |
-| LLC revenue | ${{0.00}} | {{+/-}} |
-| Books live | {{n}} | {{+/-}} |
-| Cash on hand | ${{0}} | {{+/-}} |
+| MRR | ${{0.00}} | {{+/-}} |
+| New signups | {{n}} | {{+/-}} |
+| Active users | {{n}} | {{+/-}} |
+| Cash runway (months) | {{n}} | {{+/-}} |
 
 ## Habits roll-up
 - Sleep avg: {{h.h}}

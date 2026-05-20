@@ -14,8 +14,9 @@ This folder holds agent definition files. Each agent is a specialized sub-proces
 
 | Agent | Trigger | What It Does |
 |-------|---------|-------------|
-| `kdp_research` | "research self-publishing", "check my books", "find self-publishing niches" | Analyzes competitors, discovers niches, tracks BSR, suggests next books |
 | `job_search` | "find jobs", "job search", "check job boards" | Scans job boards, matches skills, drafts resumes/cover letters, tracks applications |
+
+Add your own agents here — examples to consider: `market_research`, `recipe_curator`, `financial_review`, `content_planner`. Each agent is just a markdown file in this folder with YAML frontmatter.
 
 ---
 

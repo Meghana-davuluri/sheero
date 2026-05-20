@@ -48,7 +48,7 @@ For each message, assign exactly one bucket based on sender + subject + snippet:
 **🟡 IMPORTANT** — worth reading this week, not today
 - Responses to threads she's in
 - Job/recruiter emails that aren't time-sensitive
-- self-publishing / Amazon seller notifications about her books
+- E-commerce / marketplace platform notifications
 - Personal communication from friends/family that doesn't need immediate reply
 - Government / tax / immigration / visa-related mail (unless deadline → URGENT)
 

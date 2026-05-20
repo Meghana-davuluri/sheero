@@ -96,7 +96,7 @@ Three to five sentences identifying the **important** outcomes of the week. Not 
 Anyone surfaced in daily journals, decisions, or feeds. Count mentions if helpful. Link to `cortex/people/<name>.md` if those files exist (they may not yet — Phase 7 also adds topic trees).
 
 ### Projects worked on
-Group by project (askexample, PhotoFinder, CarSearch, acme-client, self-publishing, Sheero itself, job search, etc.). For each: rough commit count from GitHub feed, status notes from daily logs or decisions.
+Group by project (e.g., main product, client work, side projects, Sheero itself, job search if applicable, etc.). For each: rough commit count from GitHub feed, status notes from daily logs or decisions.
 
 ### Themes from journals
 Identify the recurring dominant themes (clarity, frustration, momentum, etc.) across daily journal entries. Patterns matter — three "frustration" days in a row is signal.

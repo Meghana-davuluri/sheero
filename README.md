@@ -111,7 +111,6 @@ sheero-brain/
     │   └── email_triage/
     ├── agents/
     │   ├── job_search.md
-    │   └── kdp_research.md
     └── bots/
         └── telegram/                  ← @YourBot daemon
             ├── bot.py
@@ -146,7 +145,6 @@ Specialized research workers in `.claude/agents/`:
 | Agent           | Focus                                                                  |
 |-----------------|------------------------------------------------------------------------|
 | `job_search`    | Job listings, application tracking, opportunity research               |
-| `kdp_research`  | Amazon self-publishing self-publishing — keyword research, listings, optimization  |
 
 ---
 
