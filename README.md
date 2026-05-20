@@ -72,7 +72,6 @@ sheero-brain/
 │
 ├── CLAUDE.md                          ← system prompt
 ├── README.md                          ← you are here
-├── ROADMAP.md                         ← current status + planned features
 │
 ├── cortex/                            ← identity, focus, capture inbox
 │   ├── me.md
@@ -238,11 +237,6 @@ Say "good morning" to trigger your first check-in.
 
 See [`.claude/bots/telegram/README.md`](.claude/bots/telegram/README.md) for the full setup — BotFather token, owner ID, env file, launchd installation.
 
----
-
-## Roadmap
-
-See [`ROADMAP.md`](ROADMAP.md) for current status and planned features.
 
 ---
 
